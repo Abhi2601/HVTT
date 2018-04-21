@@ -1,2 +1,2 @@
-# HVTT_Paper
+# HVTT
 Resources 
