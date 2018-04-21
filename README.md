@@ -1,2 +1,2 @@
 # HVTT
-Resources 
+Paper & its resources 
